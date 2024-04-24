@@ -1,0 +1,27 @@
+Infos zu den Kategorien:
+Name: pass ich noch an, aktuell stehen z.B. Sonderzeichen mit dabei
+Cost: addieren
+Running Cost: addieren
+Top Speed: niedrigste entscheidet für den ganzen Zug
+Engine Types: Steam, Diesel, Electric, none -> sobald mind. 1x Electric braucht Zug Oberleitung. Vorschlag: Variable: needsCatenary
+Power: addieren, 0 für Motorlos
+Tractive Effort: addieren, 0 für Motorlos
+Capacity: addieren, 0 für Loks
+Cargo Types: none, Passengers, Box, Flat, Condola, Tank -> speicher das mal nicht ab, ich benutze am Anfang nur einheitliche Züge
+Loading Speed: nicht abspeichern
+Emission: addieren
+Weight: addieren
+Lifespan: kürzeste entscheidet für den ganzen Zug
+Length: addieren
+Start Year: spätestes entscheidet für den ganzen Zug
+End Year: frühestes entscheidet für den ganzen Zug
+
+Das alles ist natürlich nur ne Challenge für dich. Du kannst auch gerne nur folgende Kategorien abfragen:
+Name
+Running Cost
+Top Speed
+Power
+Tractive Effort
+Capacity
+Weight
+Length
