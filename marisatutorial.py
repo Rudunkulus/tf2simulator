@@ -89,3 +89,5 @@ oil = oil.addWagon('Tank Car EU 120', 9)
 ice = Train()
 ice = ice.addMultiUnit('ICE 1')
 train = oil
+
+icedoppel = ice.addMultiUnit('ICE 1')
