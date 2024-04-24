@@ -72,6 +72,15 @@ class Train:
             self.topspeed = min(self.topspeed, topspeed/3.6)
             self.capacity += capacity
         return self
+    
+    def addWagen(self, name, amount=1):
+        for i in range (amount):
+            wagenData = get SQL Data
+            self.runningCost += wagenData.runningCost
+            self.weight += wagenData.weight * 1000
+            self.length += wagenData.length
+            self.topspeed = min(self.topspeed, wagenData.topspeed/3.6)
+            self.capacity += wagenData.capacity
 
 # Create Train
 emptyTrain = Train()
