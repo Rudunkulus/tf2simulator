@@ -1,4 +1,4 @@
-Name,Cost [$],Running Cost [$/year],Top Speed [km/h],Engine Type,Power [kW],Tractive Effort [kN],Capacity [-],Cargo Type,Loading Speed [-],Emission [-],Weight [t],Lifespan [years],Length [m],Start Year,End Year
-D 1/3,243886,40648,40,Steam,66,20,0,none,1,78,30,29,11,1850,1897
-Cle 2/4 Roter Pfeil,2707740,451290,125,Electric,315,45,20,Passengers,2,66,33,40,89,1935,nan
-Boxcar,116522,19420,50,none,0,0,4,Box,1,70,5,40,7.5,1850,1950
+ID,Name,Cost,Running_Cost,Top_Speed,Engine_Type,Power,Tractive_Effort,Capacity,Cargo_Type,Loading_Speed,Emission,Weight,Lifespan,Length,Start_Year,End_Year
+1,D 1/3,243886,40648,40,Steam,66,20,0,none,1,78,30,29,11,1850,1897
+2,Cle 2/4 Roter Pfeil,2707740,451290,125,Electric,315,45,20,Passengers,2,66,33,40,89,1935,nan
+3,Boxcar,116522,19420,50,none,0,0,4,Box,1,70,5,40,7.5,1850,1950
